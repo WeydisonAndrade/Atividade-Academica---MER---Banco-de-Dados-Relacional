@@ -1,0 +1,2 @@
+# Atividade-Academica---MER---Banco-de-Dados-Relacional
+Atividade acadêmica da matéria de Banco de Dados Relacionais do curso de bacharelado em Engenharia de Software...nesta atividade fiz a  modelagem do banco de dados no modelo conceitual, atendendo as regras do negócio. Foi feito a modelagem de um banco de dados ainda na fase conceitual, para o modelo lógico, e do modelo lógico para o modelo físico.
